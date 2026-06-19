@@ -1,9 +1,9 @@
-# 🏙️ Toronto Boutique Apartments - Immersive Web Experience
+# 🏙️ Namma Salem Official Boutique Apartments - Immersive Web Experience
 
 [![CI/CD Pipeline](https://github.com/mahmoudBH/Boutique-Apartments/actions/workflows/main.yml/badge.svg)](https://github.com/mahmoudBH/Boutique-Apartments/actions)
 [![Live Demo](https://img.shields.io/badge/demo-live-green.svg)](https://toronto-apartments.vercel.app/)
 
-A premium, high-end real estate web application designed to showcase luxury executive rentals in Toronto. Developed by **Mahmoud Bousbih**, this project focuses on **high-performance rendering**, **immersive UI/UX**, and **modern DevOps practices**.
+A premium, high-end real estate web application designed to showcase luxury executive rentals in Toronto. Developed by **Gokul Thangaraj**, this project focuses on **high-performance rendering**, **immersive UI/UX**, and **modern DevOps practices**.
 
 ---
 

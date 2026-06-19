@@ -52,35 +52,8 @@ Every push to the `main` branch triggers an automated GitHub Actions pipeline:
 * **Build Verification**: Ensures the project compiles successfully before any manual review.
 * **Automated Deployment**: Seamless integration with the hosting environment.
 
----
+--
 
-## 🏃 Setup & Installation
-
-### Local Development
-To run the project locally without Docker:
-```bash
-# Clone the repository
-git clone [https://github.com/mahmoudBH/Boutique-Apartments.git](https://github.com/mahmoudBH/Boutique-Apartments.git)
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
-
-```
-Docker Deployment
-To simulate the production environment locally:
-```bash
-
-# Build and launch containers
-docker-compose up --build
-```
-
-The application will be accessible at http://localhost:3000.
-
-
-📈 Roadmap (Version 2.0)
 The project is evolving from a static showcase to a full-stack platform:
 
 [ ] Backend Integration: Node.js & Express API for dynamic listings.
@@ -93,11 +66,10 @@ The project is evolving from a static showcase to a full-stack platform:
 
 👤 Author
 
-Mahmoud Bousbih
+Gokul Thangaraj
 💼 Full-Stack Developer
 
-GitHub: @mahmoudBH
-Portfolio: https://toronto-apartments.vercel.app/
+GitHub: @gokul-codes-420
 
 📄 License
 This project is licensed under the MIT License.

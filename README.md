@@ -8,6 +8,12 @@ A premium, high-end real estate web application designed to showcase luxury exec
 ---
 
 ## ✨ Key Features
+
+
+<img width="2528" height="1358" alt="image" src="https://github.com/user-attachments/assets/79470ac9-812e-4e1d-9366-23e04afe2d53" />
+
+
+
 - **Immersive Visuals**: High-resolution image galleries and smooth scroll animations using Framer Motion.
 - **Micro-Interactions**: Custom cursor, section transitions, and interactive count-up statistics.
 - **Responsive Architecture**: Fully fluid design optimized for mobile, tablet, and desktop.
